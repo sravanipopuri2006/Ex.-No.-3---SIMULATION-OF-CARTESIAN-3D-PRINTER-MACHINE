@@ -50,7 +50,6 @@
 ## OUTPUT
 
 ## Output:
-![Screenshot 2023-11-21 091217](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/f58c2add-f6fd-4cfd-a02f-7ede32e56a34)
 ![Screenshot 2023-11-21 093737](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/15fadcd2-df6e-4e5e-bd7a-0f3c9d15244f)
 ![Screenshot 2023-11-21 093754](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/33bfbae8-f00a-4cb0-ad2a-dd5e47cffbaa)
 ![Screenshot 2023-11-21 093839](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/8d6fa4dd-ee08-40f1-81e8-0114f9e3ca85)
