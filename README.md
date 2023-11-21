@@ -48,20 +48,17 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![Screenshot 2023-11-21 091217](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/f58c2add-f6fd-4cfd-a02f-7ede32e56a34)
+![Screenshot 2023-11-21 093737](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/15fadcd2-df6e-4e5e-bd7a-0f3c9d15244f)
+![Screenshot 2023-11-21 093754](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/33bfbae8-f00a-4cb0-ad2a-dd5e47cffbaa)
+![Screenshot 2023-11-21 093839](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/8d6fa4dd-ee08-40f1-81e8-0114f9e3ca85)
+![Screenshot 2023-11-21 093851](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/ba9954c9-ba32-40e1-81f8-4ea376047aa6)
+![Screenshot 2023-11-21 094003](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/e7750613-ba6d-4ef6-8289-8e09715a20c3)
 
-### Name: 
-### Register Number:
+### Name: POPURI SRAVANI
+### Register Number: 23006561
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
