@@ -50,14 +50,19 @@
 ## OUTPUT
 
 ## Output:
-![Screenshot 2023-11-21 093737](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/15fadcd2-df6e-4e5e-bd7a-0f3c9d15244f)
-![Screenshot 2023-11-21 093754](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/33bfbae8-f00a-4cb0-ad2a-dd5e47cffbaa)
-![Screenshot 2023-11-21 093839](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/8d6fa4dd-ee08-40f1-81e8-0114f9e3ca85)
-![Screenshot 2023-11-21 093851](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/ba9954c9-ba32-40e1-81f8-4ea376047aa6)
-![Screenshot 2023-11-21 094003](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/e7750613-ba6d-4ef6-8289-8e09715a20c3)
+![m1](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/74d92782-b07d-41bf-9d2f-41cb20272e2d)
+![m2](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/9e6ac06b-79f7-4746-816c-090b46081065)
+![m3](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/034b8c6c-0f9a-46b6-ae33-8532be7384d1)
+![m4](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/c013e70b-5d0a-4a67-9b98-a21f42abb234)
+![m5](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/16ab741f-da01-449a-8a1a-b39218858e98)
+![m6](https://github.com/sravanipopuri2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139778301/c23c59d1-3c4f-4bfc-9a1d-7022e487c355)
+
+
+
 
 ### Name: POPURI SRAVANI
 ### Register Number: 23006561
+
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
